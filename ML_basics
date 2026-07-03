@@ -9,6 +9,8 @@ Original file is located at
 # Customer_churn_predIction
 """
 
+### This rpart of repo contains hyper parameter tuning and customer churn prediction projects and concepts contained here
+
 from sklearn.metrics import precision_score, recall_score, f1_score
 
 print("y_test" in globals())
